@@ -5,3 +5,4 @@
 - 1x EC11 Encoder
 - 1x PCB
 - 1x 0.96 inch 128x64 OLED
+- 4x M3 12mm Bolts in BOM
